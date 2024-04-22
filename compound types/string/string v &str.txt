@@ -1,0 +1,3 @@
+A string is a heap-allocated string yupe that owns its contents and is mutable.
+
+A &str is an immutable sequence of UTF-8 bytes in memory.
